@@ -1,0 +1,10 @@
+# Python dependencies for AR_aligned
+
+notebook
+matplotlib
+numpy
+pandas
+opencv-python
+scikit-learn
+seaborn
+plotly
