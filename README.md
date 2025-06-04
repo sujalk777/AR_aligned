@@ -52,8 +52,4 @@ AR_aligned/
 └── requirements.txt  # Python dependencies
 ```
 
-## License
-
-
-
 
